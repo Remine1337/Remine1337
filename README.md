@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Remine1337
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-Remine#7538
-<!---
-Remine1337/Remine1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Remine
+- 👀 I’m interested in C++ Vue and some scripting language
+- 🌱 I’m currently learning Reverse Engineering
